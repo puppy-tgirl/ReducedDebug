@@ -1,0 +1,7 @@
+{
+  "compatibilityLevel": "JAVA_8",
+  "package": "me.nyaaa.reduced.mixins",
+  "mixins": [
+    "GuiOverlayDebugMixin"
+  ]
+}

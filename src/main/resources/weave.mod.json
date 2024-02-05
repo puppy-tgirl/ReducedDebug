@@ -1,0 +1,8 @@
+{
+  "modId": "ReducedDebug",
+  "author": "River",
+  "version": "1.0",
+  "mixinConfigs": [
+    "reduced.mixins.json"
+  ]
+}
